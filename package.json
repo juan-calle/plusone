@@ -55,7 +55,7 @@
     "bcrypt": "^5.0.1",
     "cheerio": "^1.0.0-rc.10",
     "class-transformer": "^0.5.1",
-    "class-validator": "^0.13.2",
+    "class-validator": "^0.14.0",
     "core-js": "^3.21.1",
     "document-register-element": "1.14.10",
     "encoding": "^0.1.13",
